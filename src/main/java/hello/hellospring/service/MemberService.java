@@ -7,7 +7,7 @@ import hello.hellospring.repository.MemoryMemberRepository;
 import java.util.List;
 import java.util.Optional;
 
-public class MemberService {
+public class MemberService { //command + shift + T >> test 단축키
 
     private final MemberRepository memberRepository = new MemoryMemberRepository();
     // 회원가입
