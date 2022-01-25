@@ -38,7 +38,7 @@ public class HelloController {
     static class Hello {
         private String name;
 
-        // 단축어 ctrl+enter
+        // 단축키 ctrl+enter
         public String getName() {
             return name;
         }
